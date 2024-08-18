@@ -31,6 +31,7 @@ p{
 }
 .btn{
     margin-top: 20px;
+    display: inline-block;
 }
 a{
    background-color: #099268;
@@ -119,3 +120,34 @@ blockquote{
     font-size: 16px;
     color: #c3fae8;
 }
+
+
+
+.image{
+    width: 100%;
+    height: 200px;
+}
+
+.products{
+display: flex;
+}
+
+.chair-icon{
+    width: 30px;
+}
+
+.chair-box{
+    width: 30%;
+    margin: 10px;
+    background-color: #fff;
+    box-shadow: 0 0 10px #c0c1c2;
+}
+
+.box{
+    display: flex;
+}
+
+.cart{
+    display: flex;
+}
+
